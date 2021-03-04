@@ -1,0 +1,9 @@
+---
+Name: newsletterroutes
+After:
+  - '#rootroutes'
+  - '#coreroutes'
+---
+SilverStripe\Control\Director:
+  rules:
+    'newsletter//$Action/$NewsletterRecipinetID': 'Schrattenholz\Newsletter\NewsletterController'
