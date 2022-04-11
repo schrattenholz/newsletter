@@ -18,10 +18,12 @@
 		<input id="Form_AnmeldeformularNewsletter_DSGVO" name="DSGVO" type="checkbox"  class="custom-control-input" wfd-id="408" required="required">
 		<label class="custom-control-label text-primary" for="Form_AnmeldeformularNewsletter_DSGVO" wfd-id="54">Ich habe die Datenschutzerkl&auml;ng des $SiteConfig.Title gelesen.</label>
 	</div>
+	<!--
 	<div id="Form_AnmeldeformularNewsletter_Abmeldung_Holder" class="custom-control custom-checkbox checkbox" wfd-id="53">
 		<input id="Form_AnmeldeformularNewsletter_Abmeldung" name="Abmeldung" type="checkbox" class="custom-control-input" wfd-id="408">
-		<label class="custom-control-label text-primary" for="Form_AnmeldeformularNewsletter_Abmeldung" wfd-id="54">Vom Newsletter abmelden</label>
+		<label class="custom-control-label" for="Form_AnmeldeformularNewsletter_Abmeldung" wfd-id="54">Vom Newsletter abmelden</label>
 	</div>
+	-->
 	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 	<div style="position: absolute; left: -5000px;" aria-hidden="true">
 		<input type="text" name="b_c7103e2c981361a6639545bd5_29ca296126" tabindex="-1">
